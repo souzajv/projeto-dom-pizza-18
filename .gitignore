@@ -1,0 +1,23 @@
+# ── Dependências ──
+node_modules/
+
+# ── Assets originais (muito pesados — ficam só locais) ──
+assets/
+
+# ── Next.js (não usado mais) ──
+.next/
+src/
+
+# ── Claude / IDE ──
+.claude/
+.vscode/
+.idea/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ──
+*.log
+npm-debug.log*
